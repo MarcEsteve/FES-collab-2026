@@ -6,7 +6,7 @@ Hola soc el chuko
 
 Gonzi gonzi 
 
-print("Arnau Recio caillou")
+print("Arnau Recio caillou") <3
 
 Dakoi dakoi
 
