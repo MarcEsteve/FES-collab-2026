@@ -65,3 +65,6 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 ANOTOP AT
+
+real_madrid_nadaplete = true
+(barça > Real_Madrid) = true
