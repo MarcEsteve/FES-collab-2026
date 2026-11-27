@@ -63,7 +63,9 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ⠀⠀⠀⠀⠉⠛⠻⠿⠗⠛⠁⠀⠀⠀⠀⠀⠀⠀⠹⠁⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-
-
+Es el vecino el que elige al alcalde y es el alcalde el que quiere que sean los vecinos.
 
 ANOTOP AT
+
+real_madrid_nadaplete = true
+(barça > Real_Madrid) = true
