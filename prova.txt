@@ -9,3 +9,7 @@ Gonzi gonzi
 print("Arnau Recio caillou")
 
 Dakoi dakoi
+
+
+madrid_nadaplete = true
+(barça > real madrid) = true
