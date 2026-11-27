@@ -69,3 +69,4 @@ ANOTOP AT
 
 real_madrid_nadaplete = true
 (barça > Real_Madrid) = true
+HOla soc la Laia Vilanova
