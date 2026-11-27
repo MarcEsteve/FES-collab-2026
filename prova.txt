@@ -1,5 +1,4 @@
 Hola soc el Marc
-fkgdgjlfd
 
 Hola soc el martin :()
 Hola soc el chuko
@@ -69,3 +68,4 @@ ANOTOP AT
 
 real_madrid_nadaplete = true
 (barça > Real_Madrid) = true
+a
